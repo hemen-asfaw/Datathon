@@ -9,3 +9,10 @@ What problem are you trying to solve for the stakeholders?
   
 How will you solve the problem?
 - We will search for variables that affect the probability of a small, women-owned, minority-owned business obtaining the maximum amount of money for an EPA contract.
+
+
+Link to our dataset: https://drive.google.com/file/d/1v9JZswSsrkhFWy_LLzEPgCxOJTxY87nn/view
+
+Note:
+"datathonstatedistribution.ipynb" and "datathon.rmd" are our code files.
+"explanatory variables" and the link provided are our dataset files.
